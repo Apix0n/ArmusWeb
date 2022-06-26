@@ -9,4 +9,4 @@ Projet original ici: https://github.com/Apix0n/Armus
 
 Merci de vous rendre dans les issues du projet original. https://github.com/Apix0n/Armus/issues/new
 
-### Par [Apix](https://github.com/Apix0n) avec <3
+### Créé par [Apix](https://github.com/Apix0n) avec <3
