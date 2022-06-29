@@ -9,11 +9,11 @@
           :root {
             --text: #24292f;
             --bg: #ffffff;
+            --code: #e9e9e9;
           }
           body {
             font-family: 'Montserrat', serif;
             font-size: 20px;
-            font-weight: 600;
             color: var(--text);
             background-color: var(--bg);
           }
@@ -21,6 +21,7 @@
             :root {
               --text: #ffffff;
               --bg: #0d1117;
+              --code: #24292f;
             }
           }
           a {
@@ -36,6 +37,16 @@
           }
           td {
             text-align: center;
+          }
+          code {
+            padding: 0.2em 0.4em;
+            margin: 0;
+            font-size: 80%;
+            background-color: var(--code);
+            border-radius: 6px;
+          }
+          .ligne {
+            line-height: 1.3em;
           }
         </style>
 	      <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -358,7 +369,7 @@
       <p>Merci de créer une issue <a href="https://github.com/Apix0n/Armus/issues/new/choose" target="_blank">ici</a> en sélectionnant le bon modèle.</p>
       <h3 id="remerciements">🌟 Remerciements</h3>
       <p>Merci à:</p>
-      <ul>
+      <ul class="ligne">
         <li>XNinjaYmZ pour <code>wizardus</code> (<a href=https://github.com/Apix0n/Armus/issues/7 target="_blank">#7</a>)</li>
         <li>Ilian pour <code>drogueus</code>, <code>killus</code>, <code>mysterus</code>, <code>naturus</code>, <code>robotus</code>, <code>sofianus</code>, <code>spidermanus</code> et <code>vegetus</code></li>
         <li>Jujudubat7 pour <code>chaplinus</code></li>
