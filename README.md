@@ -1,9 +1,9 @@
-# ArmusWeb
+# 🪧 Le site est dorénavent hébergé et stocké dans le dossier `/docs` d'Armus.
 
-Version HTML du README de Apix0n/Armus afin de m'entraîner à coder en HTML.
+ArmusWeb était une version HTML du README de Apix0n/Armus afin de m'entraîner à coder en HTML.
 
 Projet original ici: https://github.com/Apix0n/Armus  
-Également hébergé sur GitHub Pages: https://apix0n.github.io/ArmusWeb
+hébergé sur GitHub Pages: https://apix0n.github.io/Armus
 
 ### ❓ Un problème ?
 
