@@ -1,4 +1,4 @@
-# 🪧 Le site est dorénavent hébergé et stocké dans le dossier `/docs` d'Armus.
+# 🌟 Le site est dorénavent hébergé et stocké dans le dossier `/docs` d'Armus.
 
 ArmusWeb était une version HTML du README de Apix0n/Armus afin de m'entraîner à coder en HTML.
 
